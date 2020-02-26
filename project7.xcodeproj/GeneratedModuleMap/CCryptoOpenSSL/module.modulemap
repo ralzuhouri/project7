@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/ramy/Developer/Server/project7/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

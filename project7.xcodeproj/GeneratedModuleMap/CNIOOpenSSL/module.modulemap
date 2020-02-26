@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/ramy/Developer/Server/project7/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
